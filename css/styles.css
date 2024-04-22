@@ -195,7 +195,7 @@ address {
     gap: 24px;
 }
 
-.list {
+.line {
     max-width: 264px;
     width: calc((100% - 72px) / 4)
 }
