@@ -173,7 +173,7 @@ address {
     max-width: 496px;
 }
 
-.container-b {
+.section-a {
     padding: 120px 0;
 }
 
@@ -197,7 +197,7 @@ address {
 
 .list {
     max-width: 264px;
-    width: calc((100% - 24px) / 4);
+    width: calc((100% - 72px) / 4)
 }
 
 .title-three {
@@ -217,7 +217,7 @@ address {
     color: #434455;
 }
 
-.container-b {
+.section-portfolio {
     padding: 120px 0;
 }
 
@@ -268,7 +268,7 @@ address {
     text-align: center;
 }
 
-.container-c {
+.section-c {
     padding: 120px 0
 }
 
@@ -340,11 +340,9 @@ address {
 
 .footer-end {
     background: #2e2f42;
-}
-
-.container-footer {
     padding: 100px 0;
 }
+
 
 .logo-two {
     font-family: "Raleway", sans-serif;
