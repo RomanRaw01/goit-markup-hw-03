@@ -353,7 +353,7 @@ address {
     text-transform: uppercase;
     color: #f4f4fd;
     display: inline-block;
-    margin-bottom: 16px
+
 }
 
 .footer-logo {
@@ -365,10 +365,16 @@ address {
     text-transform: uppercase;
     color: #4d5ae5;
     display: inline-block;
-    margin-bottom: 16px
+
 }
 
 .end {
-    color: #f4f4fd;
+    margin-top: 16px;
     max-width: 264px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
